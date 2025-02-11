@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: miniProject
+  datasource:
+    url: jdbc:mysql://localhost:3306/springdb
+    username: mini
+    password: mini
+    driver-class-name: com.mysql.cj.jdbc.Driver
